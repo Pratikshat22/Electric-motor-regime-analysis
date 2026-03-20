@@ -13,7 +13,7 @@ This project explores electric motor behavior using data-driven methods to ident
 ![Torque Plot](torque_plot.png)
 
  Interactive Dashboard:  
-[Open Visualization](electric_motor_analysis_complete.html)
+[Open Visualization](https://drive.google.com/drive/folders/1YKDSmEN1sZKgbG3KPF3eIUn4clPSkfPr?q=sharedwith:public%20parent:1YKDSmEN1sZKgbG3KPF3eIUn4clPSkfPr)
 
 # Methods Used
  K-Means Clustering
