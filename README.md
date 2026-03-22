@@ -13,10 +13,6 @@ This project explores electric motor behavior using data-driven methods to ident
 
 ## Visualizations
 
-*Torque vs Speed showing three automatically discovered regimes*
-
-![Torque Plot](torque_plot.png)
-
 **Interactive Dashboard:**  
 https://Pratikshat22.github.io/Electric-motor-regime-analysis/electric_motor_analysis_complete.html
 
@@ -38,6 +34,3 @@ https://www.kaggle.com/datasets/graxlmaxl/identifying-the-physics-behind-an-elec
 - `analysis_script.py` — analysis code
 - `torque_plot.png` — main visualization
 
----
-
-*Made by a physics student trying to understand motors without reading textbooks first.*
